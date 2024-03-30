@@ -1,5 +1,7 @@
 <!-- Readme for my profile -->
 
+#### hi there! 👋
+
 ```python
 aaron_personal_info = {
     "name": "Aaron Wayas",
@@ -22,3 +24,7 @@ aaron_dev_info = {
     }
 }
 ```
+
+#### 🏆 github profile trophy 
+
+![](https://github-profile-trophy.vercel.app/?username=aaronwayas&theme=onestar)
